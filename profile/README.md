@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center; gap: 16px;">
   <img 
-    src="https://media.discordapp.net/attachments/1455623527939051723/1456686170884014081/logo.png?ex=69594437&is=6957f2b7&hm=525b6c7b2a7283faba6e67d069f5f3fce2ec40df2cdba61f67c06f4d68c8ba8a&=&format=webp&quality=lossless&width=898&height=898"
-    alt="Zend Logo"
+    src="https://media.discordapp.net/attachments/1460849042077515927/1495868981507260557/setepixels.png?ex=69e7d00d&is=69e67e8d&hm=401872d23029e6c08809000d23945853e0a20cd4547ad45043d28673b18426c8&=&format=webp&quality=lossless&width=1848&height=440"
+    alt="7 Logo"
     height="90"
   />
   <h1>Bem-vindo a Sete Pixels</h1>
